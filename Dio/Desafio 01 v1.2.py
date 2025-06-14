@@ -8,6 +8,7 @@
 # Estabelecer um limite de 10 transações diárias para uma conta
 # Se tentar fazer uma transação após o limite, deve ser informado que foi excedido o limite do dia.
 # Mostrar no extrato a data e hora das transações.
+
 from datetime import datetime
 
 def espacamento():
