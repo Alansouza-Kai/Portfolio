@@ -13,9 +13,9 @@ Este repositório contém a documentação e os aprendizados adquiridos durante 
 
 ## Conteúdo do Repositório
 
-- `notas-speech-studio.md`: Anotações detalhadas sobre o Azure Speech Studio, incluindo reconhecimento de fala, conversão texto-para-fala e outras funcionalidades.
-- `notas-language-studio.md`: Anotações sobre o Azure Language Studio, com foco em análise de texto, extração de frases-chave, análise de sentimentos e outras técnicas de NLP.
-- `README.md`: Este arquivo de apresentação do projeto.
+- [notas-speech-studio.md](https://github.com/Alansouza-Kai/Portfolio/blob/main/Dio/Análise%20de%20Sentimentos/notas-speech-studio.md): Anotações detalhadas sobre o Azure Speech Studio, incluindo reconhecimento de fala, conversão texto-para-fala e outras funcionalidades.
+- [notas-language-studio.md](https://github.com/Alansouza-Kai/Portfolio/blob/main/Dio/Análise%20de%20Sentimentos/notas-language-studio.md): Anotações sobre o Azure Language Studio, com foco em análise de texto, extração de frases-chave, análise de sentimentos e outras técnicas de NLP.
+- [README.md](https://github.com/Alansouza-Kai/Portfolio/blob/main/Dio/Análise%20de%20Sentimentos/README.md): Este arquivo de apresentação do projeto.
 
 ## Recursos Utilizados
 
@@ -34,6 +34,3 @@ Este repositório contém a documentação e os aprendizados adquiridos durante 
 
 Durante o laboratório, pude compreender como os serviços de fala e linguagem natural do Azure podem ser integrados para construir soluções inteligentes que entendem e interagem com os usuários por meio da voz e do texto. Além disso, aprendi a importância da documentação clara e estruturada para facilitar o compartilhamento e a replicação do conhecimento.
 
-## Contato
-
-Para dúvidas ou sugestões, entre em contato: seu.email@exemplo.com
