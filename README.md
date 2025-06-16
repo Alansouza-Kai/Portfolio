@@ -87,6 +87,7 @@ Já atuei em empresas como **Level Up**, **Concentrix** e **Sitel**, onde:
 
 ## 🔍 Projetos em Destaque
 Projeto de curso - [Sistema bancário "simples"](https://github.com/Alansouza-Kai/Portfolio/blob/main/Dio/Desafio%2001%20v1.3.py)
+
 Atividaded de curso - [Tratamento e análise em pandas](https://github.com/Alansouza-Kai/Portfolio/blob/main/Python%20para%20Data%20Science/pandas/022/022.py)
 
 "Ainda em construção"...
