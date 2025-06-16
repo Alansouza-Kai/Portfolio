@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional versátil, com uma trajetória sólida em **atendimento técnico**, **auditoria de dados em jogos online** e **prevenção de fraudes digitais**.
+Sou um profissional dinâmico, com uma trajetória sólida em **atendimento técnico**, **auditoria de dados em jogos online** e **prevenção de fraudes digitais**.
 
 Fui responsável por auditorias internas e externas em ambientes de jogos, analisando **logs de ações**, **comportamentos suspeitos**, **ferramentas de segurança** e **operações de marketplaces de keys de jogos**.
 Sempre buscando padrões e desvios para proteger tanto a empresa quanto os jogadores.
