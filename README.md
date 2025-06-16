@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Alan de Souza Bezerra
 
-🎮 **Especialista em Games, Análise de Dados, auditoria,  e Suporte Técnico**
+🎮 **Especialista em Auditorias de Games e ferramentas internas, Análise de Dados, e Suporte Técnico**
 💼 9+ anos de experiência em atendimento técnico, auditoria de jogos, análise antifraude e automação de processos
 📧 [alllam\_sousa@hotmail.com](mailto:alllam_sousa@hotmail.com)
 
@@ -86,9 +86,8 @@ Já atuei em empresas como **Level Up**, **Concentrix** e **Sitel**, onde:
 ---
 
 ## 🔍 Projetos em Destaque
+Projeto de curso - [Sistema bancário "simples"](https://github.com/Alansouza-Kai/Portfolio/blob/main/Dio/Desafio%2001%20v1.3.py)
+Atividaded de curso - [Tratamento e análise em pandas](https://github.com/Alansouza-Kai/Portfolio/blob/main/Python%20para%20Data%20Science/pandas/022/022.py)
 
-Explore meus projetos no repositório [📁 Portfolio](https://github.com/Alansouza-Kai/Portfolio), incluindo:
-
-"Ainda em construção"
-
+"Ainda em construção"...
 ---
