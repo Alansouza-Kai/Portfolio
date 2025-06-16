@@ -58,7 +58,7 @@ Além disso atuaei efetuando:
 * Auditoria de logs e análise de comportamento em ambientes de jogos
 * Detecção e prevenção de fraudes (chargebacks, marketplaces)
 * Redação técnica e criação de artigos de suporte
-* Manipulação de imagens com OpenCV e Photoshop
+* Manipulação de imagens com Krita e Photoshop
 * Configuração e manutenção de hardware e redes
 * Roteirização e desenvolvimento de sistemas e jogos digitais
 
@@ -71,7 +71,7 @@ Além disso atuaei efetuando:
 * 🌍 Espanhol Básico – UNINOVE (2016)
 * 💻 Suporte Técnico – GigaByte (2012)
 * 🖥️ Informática Básica – Projeto Informática para Todos (2007)
-* 🕹️ Cursos livres e tutoriais de Game Design, Unity, Illustrator, In Design, Autocad, Maya e automações (hobby e autoiniciativa)
+* 🕹️ Aprendizados livres (hobby e autoiniciativa) - Unity, Illustrator, In Design, Autocad, Maya e Automações.
 
 ---
 
@@ -79,11 +79,11 @@ Além disso atuaei efetuando:
 
 Já atuei em empresas como **Level Up**, **Concentrix** e **Sitel**, onde:
 
-* Analisei **chargebacks** e **logs de segurança** em jogos online
-* Investiguei irregularidades e automatizei processos de auditoria
-* Criei **relatórios antifraude** e políticas internas de segurança
-* Ofereci suporte técnico para hardwares e sistemas, com uso de SAP
-* Produzi **conteúdo de suporte**, como artigos e tutoriais
+* Analisei **chargebacks** e **logs de segurança** em jogos online.
+* Investiguei irregularidades e automatizei processos de auditoria.
+* Criei **relatórios antifraude** e políticas internas de segurança.
+* Ofereci suporte técnico para hardwares e sistemas, com registro em sistemas SAP.
+* Produzi **conteúdo de suporte**, como artigos e tutoriais internos.
 
 ---
 
