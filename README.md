@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Alan de Souza Bezerra
+# 👋 Olá! Eu sou o Alan de Souza
 
 🎮 **Especialista em Auditorias de Games e ferramentas internas, Análise de Dados, e Suporte Técnico**
 
