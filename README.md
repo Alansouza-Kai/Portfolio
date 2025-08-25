@@ -29,7 +29,7 @@ Além disso atuaei efetuando:
 ## 🧠 Tecnologias e Habilidades
 
 * **Linguagens:** Python (dados e automações)
-* **Ferramentas:** , Excel, Power BI, SAP, ferramentas de ticket (Zendesk, Salesforce)
+* **Ferramentas:**  Excel, Power BI, ferramentas de ticket (Zendesk, Salesforce)
 * **Especialidades:**
 
   * Auditoria de jogos (logs, ferramentas, políticas internas)
